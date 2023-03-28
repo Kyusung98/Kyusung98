@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyusung98&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyusung98&show_icons=true&theme=radical)
 <div align="center">
   <img src="https://img.shields.io/badge/java-F24E1E?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/SPRING DATA JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
