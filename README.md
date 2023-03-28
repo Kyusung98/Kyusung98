@@ -1,6 +1,6 @@
 <div align="center">
   
-## Welcome My Git Repo 👋
+## Welcome My Github Repo 👋
   
 </br>
 </br>
