@@ -5,9 +5,7 @@
 </br>
 </br>
 
-| .                                                                                                                                       | .                |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyusung98&show_icons=true&theme=radical) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyusung98&theme=radical&layout=compact) |
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyusung98&show_icons=true&theme=radical)
 
 </br>
 </br>
